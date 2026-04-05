@@ -1,0 +1,6 @@
+User: 101 | Action: Clicked Ad
+User: 101 | Action: Clicked Ad
+User: 101 | Action: Clicked Ad
+User: {user_id} | Action: {action}
+User: {user_id} | Action: {action}
+User: 101 | Action: Clicked Ad
